@@ -1,5 +1,4 @@
 // src/components/AboutMe.js
-
 import React from 'react';
 import './../resource/css/AboutMe.css';
 
